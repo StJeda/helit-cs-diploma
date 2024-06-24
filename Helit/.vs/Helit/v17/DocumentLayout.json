@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E659CD15-2223-4551-80FA-788E8B90C713}|src\\Helit.DataAccess\\Helit.DataAccess.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.dataaccess\\context\\helitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E659CD15-2223-4551-80FA-788E8B90C713}|src\\Helit.DataAccess\\Helit.DataAccess.csproj|solutionrelative:src\\helit.dataaccess\\context\\helitcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\models\\projectconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\models\\projectconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\models\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\models\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\models\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\models\\enum\\filelangenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\models\\enum\\filelangenum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E659CD15-2223-4551-80FA-788E8B90C713}|src\\Helit.DataAccess\\Helit.DataAccess.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.dataaccess\\helit.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E659CD15-2223-4551-80FA-788E8B90C713}|src\\Helit.DataAccess\\Helit.DataAccess.csproj|solutionrelative:src\\helit.dataaccess\\helit.dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.domain\\helit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{74BD8376-89EF-4591-B615-AFBE7B3B2814}|src\\Helit.Domain\\Helit.Domain.csproj|solutionrelative:src\\helit.domain\\helit.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{038CDF82-9986-4FAF-B62D-E0E9D7D53292}|src\\Helit.Application\\Helit.Application.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{038CDF82-9986-4FAF-B62D-E0E9D7D53292}|src\\Helit.Application\\Helit.Application.csproj|solutionrelative:src\\helit.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3E0BA960-8FFF-46AB-9930-2ACB326A9788}|src\\Helit.API\\Helit.API.csproj|c:\\users\\yyarm\\source\\repos\\helit\\src\\helit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3E0BA960-8FFF-46AB-9930-2ACB326A9788}|src\\Helit.API\\Helit.API.csproj|solutionrelative:src\\helit.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelitContext.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Context\\HelitContext.cs",
+              "RelativeDocumentMoniker": "src\\Helit.DataAccess\\Context\\HelitContext.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Context\\HelitContext.cs",
+              "RelativeToolTip": "src\\Helit.DataAccess\\Context\\HelitContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:31:37.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\File.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Models\\File.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\File.cs",
+              "RelativeToolTip": "src\\Helit.Domain\\Models\\File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:14:28.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Project.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Models\\Project.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Project.cs",
+              "RelativeToolTip": "src\\Helit.Domain\\Models\\Project.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:55:09.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProjectConfig.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\ProjectConfig.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Models\\ProjectConfig.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\ProjectConfig.cs",
+              "RelativeToolTip": "src\\Helit.Domain\\Models\\ProjectConfig.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:56:44.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Directory.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Models\\Directory.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Directory.cs",
+              "RelativeToolTip": "src\\Helit.Domain\\Models\\Directory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:13:23.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FileLangEnum.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Enum\\FileLangEnum.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Models\\Enum\\FileLangEnum.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Models\\Enum\\FileLangEnum.cs",
+              "RelativeToolTip": "src\\Helit.Domain\\Models\\Enum\\FileLangEnum.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T19:01:58.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Helit.DataAccess",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+              "RelativeDocumentMoniker": "src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+              "RelativeToolTip": "src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T19:36:24.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Helit.Domain",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+              "RelativeDocumentMoniker": "src\\Helit.Domain\\Helit.Domain.csproj",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+              "RelativeToolTip": "src\\Helit.Domain\\Helit.Domain.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-23T18:54:37.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "src\\Helit.Application\\Class1.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Class1.cs",
+              "RelativeToolTip": "src\\Helit.Application\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T18:52:32.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Program.cs",
+              "RelativeDocumentMoniker": "src\\Helit.API\\Program.cs",
+              "ToolTip": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Program.cs",
+              "RelativeToolTip": "src\\Helit.API\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwB0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-23T14:25:28.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
