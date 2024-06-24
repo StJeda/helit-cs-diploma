@@ -1,0 +1,51 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34916.146
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{66C68616-F2D4-4E71-946B-1EAE8063A7CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helit.API", "src\Helit.API\Helit.API.csproj", "{3E0BA960-8FFF-46AB-9930-2ACB326A9788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helit.Domain", "src\Helit.Domain\Helit.Domain.csproj", "{74BD8376-89EF-4591-B615-AFBE7B3B2814}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helit.Application", "src\Helit.Application\Helit.Application.csproj", "{038CDF82-9986-4FAF-B62D-E0E9D7D53292}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Helit.DataAccess", "src\Helit.DataAccess\Helit.DataAccess.csproj", "{E659CD15-2223-4551-80FA-788E8B90C713}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3E0BA960-8FFF-46AB-9930-2ACB326A9788}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E0BA960-8FFF-46AB-9930-2ACB326A9788}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E0BA960-8FFF-46AB-9930-2ACB326A9788}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E0BA960-8FFF-46AB-9930-2ACB326A9788}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74BD8376-89EF-4591-B615-AFBE7B3B2814}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74BD8376-89EF-4591-B615-AFBE7B3B2814}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74BD8376-89EF-4591-B615-AFBE7B3B2814}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74BD8376-89EF-4591-B615-AFBE7B3B2814}.Release|Any CPU.Build.0 = Release|Any CPU
+		{038CDF82-9986-4FAF-B62D-E0E9D7D53292}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{038CDF82-9986-4FAF-B62D-E0E9D7D53292}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{038CDF82-9986-4FAF-B62D-E0E9D7D53292}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{038CDF82-9986-4FAF-B62D-E0E9D7D53292}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E659CD15-2223-4551-80FA-788E8B90C713}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E659CD15-2223-4551-80FA-788E8B90C713}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E659CD15-2223-4551-80FA-788E8B90C713}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E659CD15-2223-4551-80FA-788E8B90C713}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3E0BA960-8FFF-46AB-9930-2ACB326A9788} = {66C68616-F2D4-4E71-946B-1EAE8063A7CE}
+		{74BD8376-89EF-4591-B615-AFBE7B3B2814} = {66C68616-F2D4-4E71-946B-1EAE8063A7CE}
+		{038CDF82-9986-4FAF-B62D-E0E9D7D53292} = {66C68616-F2D4-4E71-946B-1EAE8063A7CE}
+		{E659CD15-2223-4551-80FA-788E8B90C713} = {66C68616-F2D4-4E71-946B-1EAE8063A7CE}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C15FE44E-0B6A-4B91-ACDE-3B7CE235A054}
+	EndGlobalSection
+EndGlobal
