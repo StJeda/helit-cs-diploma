@@ -1,0 +1,13 @@
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\bin\Release\net8.0\Helit.Domain.deps.json
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\bin\Release\net8.0\Helit.Domain.dll
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\bin\Release\net8.0\Helit.Domain.pdb
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.csproj.AssemblyReference.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.AssemblyInfoInputs.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.AssemblyInfo.cs
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.sourcelink.json
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.dll
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\refint\Helit.Domain.dll
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\Helit.Domain.pdb
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.Domain\obj\Release\net8.0\ref\Helit.Domain.dll

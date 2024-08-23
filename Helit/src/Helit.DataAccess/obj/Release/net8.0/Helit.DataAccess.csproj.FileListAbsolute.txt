@@ -1,0 +1,6 @@
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.csproj.AssemblyReference.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.AssemblyInfoInputs.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.AssemblyInfo.cs
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\src\Helit.DataAccess\obj\Release\net8.0\Helit.DataAccess.sourcelink.json

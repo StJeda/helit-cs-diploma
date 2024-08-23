@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "ySPN+DQgW1rcr0A+UBLMFS5ApXImlbi3l8CEGLtAUJQ=",
+  "Source": "Helit.API",
+  "BasePath": "_content/Helit.API",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Helit.API\\wwwroot",
+      "Source": "Helit.API",
+      "ContentRoot": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\wwwroot\\",
+      "BasePath": "_content/Helit.API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\wwwroot\\index.html",
+      "SourceId": "Helit.API",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\wwwroot\\",
+      "BasePath": "_content/Helit.API",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}

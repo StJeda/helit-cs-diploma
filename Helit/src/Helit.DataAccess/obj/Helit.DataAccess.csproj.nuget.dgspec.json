@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj": {}
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj": {
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
         "projectName": "Helit.DataAccess",
-        "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+        "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -29,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj": {
-                "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj"
+              "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj": {
+                "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj"
               }
             }
           }
@@ -50,9 +54,13 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "MongoDB.EntityFrameworkCore": {
+            "Microsoft.Extensions.Options": {
               "target": "Package",
               "version": "[8.0.2, )"
+            },
+            "MongoDB.Driver": {
+              "target": "Package",
+              "version": "[2.26.0, )"
             }
           },
           "imports": [
@@ -75,17 +83,21 @@
         }
       }
     },
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj": {
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
         "projectName": "Helit.Domain",
-        "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+        "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\obj\\",
+        "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
