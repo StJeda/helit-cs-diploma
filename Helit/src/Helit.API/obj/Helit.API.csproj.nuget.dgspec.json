@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {}
+    "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {
+    "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
+        "projectUniqueName": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
         "projectName": "Helit.API",
-        "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
+        "projectPath": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\obj\\",
+        "outputPath": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

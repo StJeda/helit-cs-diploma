@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Helit.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+34f3025ece339cbfdd089853a07888a7a7df4591")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4332a29e37a1ac1afbd7a92ad7e8650278ad7786")]
 [assembly: System.Reflection.AssemblyProductAttribute("Helit.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Helit.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

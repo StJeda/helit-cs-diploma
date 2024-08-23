@@ -10,7 +10,7 @@ public class HelitContext
     private readonly IMongoCollection<Project> _projectsCollection;
     private readonly IMongoCollection<File> _filesCollection;
 
-    public HelitContext(IOptions<MongoDBSettings> mongoDbSettings)
+    public HelitContext()
     {
         
     }

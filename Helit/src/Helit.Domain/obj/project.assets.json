@@ -131,11 +131,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+      "projectUniqueName": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
       "projectName": "Helit.Domain",
-      "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+      "projectPath": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
       "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\obj\\",
+      "outputPath": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

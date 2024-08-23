@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "IsGRny0QlZs=",
+  "dgSpecHash": "mYJfWkr5jzg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
+  "projectFilePath": "D:\\fd\\helit-cs-diploma\\Helit\\src\\Helit.DataAccess\\Helit.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yyarm\\.nuget\\packages\\awssdk.core\\3.7.100.14\\awssdk.core.3.7.100.14.nupkg.sha512",
     "C:\\Users\\yyarm\\.nuget\\packages\\awssdk.securitytoken\\3.7.100.14\\awssdk.securitytoken.3.7.100.14.nupkg.sha512",
