@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Helit.Application.csproj": {}
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Application\\Helit.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Helit.Application.csproj": {
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Application\\Helit.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Helit.Application.csproj",
+        "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Application\\Helit.Application.csproj",
         "projectName": "Helit.Application",
-        "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\Helit.Application.csproj",
+        "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Application\\Helit.Application.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Application\\obj\\",
+        "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Application\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

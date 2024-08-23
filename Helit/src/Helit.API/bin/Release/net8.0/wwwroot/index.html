@@ -1,0 +1,339 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: left;
+            margin-bottom: 20px;
+            position: relative;
+            overflow: hidden;
+            height: 60px;
+        }
+
+            .header h1 {
+                margin: 0;
+                position: relative;
+                z-index: 1;
+            }
+
+        .drop {
+            position: absolute;
+            width: 10px;
+            height: 10px;
+            background-color: #6a0dad;
+            border-radius: 50%;
+            opacity: 0;
+            animation: drop 2s ease-in forwards;
+        }
+
+        @keyframes drop {
+            0% {
+                top: -20px;
+                opacity: 0;
+            }
+
+            50% {
+                opacity: 1;
+            }
+
+            100% {
+                top: 100%;
+                opacity: 0;
+            }
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .tabs {
+            display: flex;
+            margin-bottom: 20px;
+        }
+
+        .tab {
+            padding: 10px 20px;
+            background-color: #6a0dad;
+            color: #fff;
+            border: 1px solid #6a0dad;
+            border-radius: 5px;
+            margin-right: 10px;
+            text-align: center;
+            flex: 1;
+            transition: flex 0.3s ease, background-color 0.3s ease;
+        }
+
+            .tab.active {
+                background-color: #4a007a;
+                flex: 2;
+            }
+
+            .tab.inactive {
+                flex: 1;
+                background-color: #6a0dad;
+            }
+
+        .tab-content {
+            display: none;
+        }
+
+            .tab-content.active {
+                display: block;
+            }
+
+        .select-container {
+            margin-bottom: 20px;
+        }
+
+            .select-container select {
+                padding: 10px;
+                border-radius: 5px;
+                border: 1px solid #6a0dad;
+                font-size: 16px;
+                width: 100%;
+                box-sizing: border-box;
+                background-color: #fff;
+                color: #000;
+            }
+
+                .select-container select option.selected {
+                    background-color: #4a007a;
+                    color: #fff;
+                }
+
+        .table-container {
+            margin-bottom: 40px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        th, td {
+            border: 1px solid #000;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+            text-align: center;
+        }
+
+        td {
+            text-align: left;
+        }
+
+            td.role, td.code {
+                text-align: center;
+            }
+
+        .link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px 0;
+            color: #fff;
+            background-color: #6a0dad;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            text-align: center;
+            font-size: 16px;
+            position: relative;
+            z-index: 1;
+            width: 100%;
+            box-sizing: border-box;
+        }
+
+            .link-button:hover {
+                background-color: #4a007a;
+            }
+
+        .link-purple {
+            color: #6a0dad;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+            .link-purple:hover {
+                text-decoration: underline;
+            }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>>Helit Gateway</h1>
+        <script>
+            function createDrop() {
+                const drop = document.createElement('div');
+                drop.classList.add('drop');
+                drop.style.left = Math.random() * 100 + 'vw';
+                document.querySelector('.header').appendChild(drop);
+
+                setTimeout(() => {
+                    drop.remove();
+                }, 2000);
+            }
+
+            setInterval(createDrop, 55);
+        </script>
+    </div>
+    <div class="container">
+        <div class="tabs">
+            <div class="tab active" data-target="swagger">Swagger UI</div>
+            <div class="tab inactive" data-target="redoc">ReDoc</div>
+        </div>
+        <div id="swagger" class="tab-content active">
+            <h2>Swagger UI Documentation</h2>
+            <p>View the Swagger UI documentation <a href="/swagger" class="link-purple">here</a>.</p>
+        </div>
+        <div id="redoc" class="tab-content">
+            <h2>ReDoc Documentation</h2>
+            <p>View the ReDoc documentation <a href="/docs" class="link-purple">here</a>.</p>
+        </div>
+        <div class="select-container">
+            <select id="table-select">
+                <option value="roles">Roles</option>
+                <option value="errors">Error Codes</option>
+                <option value="redirects">Redirects</option>
+            </select>
+        </div>
+        <div id="roles" class="table-container">
+            <h2>Roles</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Role</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td class="role">Admin</td>
+                        <td>Full access to all features and settings.</td>
+                    </tr>
+                    <tr>
+                        <td class="role">Editor</td>
+                        <td>Can edit and manage content.</td>
+                    </tr>
+                    <tr>
+                        <td class="role">Viewer</td>
+                        <td>Can view content but cannot make changes.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="errors" class="table-container" style="display: none;">
+            <h2>Error Codes</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Error</th>
+                        <th>Code</th>
+                        <th>Description</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Not Found</td>
+                        <td class="code">404</td>
+                        <td>The requested resource could not be found.</td>
+                    </tr>
+                    <tr>
+                        <td>Unauthorized</td>
+                        <td class="code">401</td>
+                        <td>Authentication is required and has failed or has not been provided.</td>
+                    </tr>
+                    <tr>
+                        <td>Forbidden</td>
+                        <td class="code">403</td>
+                        <td>Access to the requested resource is forbidden.</td>
+                    </tr>
+                    <tr>
+                        <td>Internal Server Error</td>
+                        <td class="code">500</td>
+                        <td>An unexpected error occurred on the server.</td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+        <div id="redirects" class="table-container" style="display: none;">
+            <h2>Redirects</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Swagger UI</td>
+                        <td><a href="/swagger" class="link-purple">View Documentation</a></td>
+                    </tr>
+                    <tr>
+                        <td>ReDoc</td>
+                        <td><a href="/docs" class="link-purple">View Documentation</a></td>
+                    </tr>
+                </tbody>
+            </table>
+        </div>
+    </div>
+    <script>
+        document.querySelectorAll('.tab').forEach(tab => {
+            tab.addEventListener('click', () => {
+                document.querySelectorAll('.tab').forEach(t => {
+                    t.classList.remove('active');
+                    t.classList.add('inactive');
+                });
+                document.querySelectorAll('.tab-content').forEach(tc => tc.classList.remove('active'));
+
+                tab.classList.add('active');
+                tab.classList.remove('inactive');
+                document.getElementById(tab.dataset.target).classList.add('active');
+            });
+        });
+
+        document.getElementById('table-select').addEventListener('change', (event) => {
+            const selectedValue = event.target.value;
+
+            document.querySelectorAll('.table-container').forEach(container => {
+                container.style.display = 'none';
+            });
+
+            document.getElementById(selectedValue).style.display = 'block';
+        });
+
+        document.getElementById('table-select').addEventListener('mousedown', (event) => {
+            const options = event.target.options;
+            for (let i = 0; i < options.length; i++) {
+                options[i].classList.remove('selected');
+            }
+        });
+
+        document.getElementById('table-select').addEventListener('change', (event) => {
+            const options = event.target.options;
+            for (let i = 0; i < options.length; i++) {
+                if (options[i].selected) {
+                    options[i].classList.add('selected');
+                }
+            }
+        });
+    </script>
+</body>
+</html>

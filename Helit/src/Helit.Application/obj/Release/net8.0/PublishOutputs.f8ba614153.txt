@@ -1,0 +1,3 @@
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Application.dll
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Application.deps.json
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Application.pdb

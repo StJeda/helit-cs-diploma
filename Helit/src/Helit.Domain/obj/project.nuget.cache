@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vUvylMYQgPA=",
+  "dgSpecHash": "EZbmDzg46hg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+  "projectFilePath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\yyarm\\.nuget\\packages\\mongodb.bson\\2.26.0\\mongodb.bson.2.26.0.nupkg.sha512",
     "C:\\Users\\yyarm\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",

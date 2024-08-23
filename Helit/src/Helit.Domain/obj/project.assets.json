@@ -125,19 +125,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\yyarm\\.nuget\\packages\\": {}
+    "C:\\Users\\yyarm\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
       "projectName": "Helit.Domain",
-      "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
+      "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\Helit.Domain.csproj",
       "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.Domain\\obj\\",
+      "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.Domain\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
         "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

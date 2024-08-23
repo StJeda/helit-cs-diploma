@@ -1,0 +1,81 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>API Documentation</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .header {
+            background-color: #000;
+            color: #fff;
+            padding: 20px;
+            text-align: left;
+            margin-bottom: 20px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        h1 {
+            margin: 0;
+            z-index: 1;
+            position: relative;
+        }
+
+        .header::before {
+            content: '';
+            position: absolute;
+            width: 200%;
+            height: 200%;
+            top: -50%;
+            left: -50%;
+            background: radial-gradient(circle, rgba(255,255,255,0.1) 10%, transparent 10.5%);
+            background-size: 50px 50px;
+            opacity: 0.3;
+            z-index: 0;
+            transform: rotate(45deg);
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .link-button {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            color: #fff;
+            background-color: #6a0dad;
+            text-decoration: none;
+            border-radius: 5px;
+            font-weight: bold;
+            text-align: center;
+            font-size: 16px;
+            position: relative;
+            z-index: 1;
+        }
+
+            .link-button:hover {
+                background-color: #4a007a;
+            }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>Helit Gateway</h1>
+    </div>
+    <div class="container">
+        <p>Select the documentation interface you want to use:</p>
+        <a href="/swagger" class="link-button">Swagger UI</a>
+        <a href="/docs" class="link-button">ReDoc</a>
+    </div>
+</body>
+</html>

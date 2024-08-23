@@ -1,0 +1,4 @@
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Domain.dll
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Domain.deps.json
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\Helit.Domain.pdb
+C:\Users\yyarm\OneDrive\Робочий стіл\helit\helit-diploma\helit-cs-diploma\Helit\publish\MongoDB.Bson.dll

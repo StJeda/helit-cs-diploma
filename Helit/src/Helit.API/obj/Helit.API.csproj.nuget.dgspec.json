@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Helit.API.csproj": {}
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Helit.API.csproj": {
+    "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Helit.API.csproj",
+        "projectUniqueName": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
         "projectName": "Helit.API",
-        "projectPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\Helit.API.csproj",
+        "projectPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\Helit.API.csproj",
         "packagesPath": "C:\\Users\\yyarm\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yyarm\\source\\repos\\Helit\\src\\Helit.API\\obj\\",
+        "outputPath": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\yyarm\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -49,6 +53,14 @@
             "Microsoft.VisualStudio.Azure.Containers.Tools.Targets": {
               "target": "Package",
               "version": "[1.20.1, )"
+            },
+            "NSwag.AspNetCore": {
+              "target": "Package",
+              "version": "[14.1.0, )"
+            },
+            "Redoc.AspNetCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",

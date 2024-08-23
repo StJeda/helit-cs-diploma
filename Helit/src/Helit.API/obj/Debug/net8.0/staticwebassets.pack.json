@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\yyarm\\OneDrive\\Робочий стіл\\helit\\helit-diploma\\helit-cs-diploma\\Helit\\src\\Helit.API\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Helit.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Helit.API.props",
+      "PackagePath": "build\\Helit.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Helit.API.props",
+      "PackagePath": "buildMultiTargeting\\Helit.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Helit.API.props",
+      "PackagePath": "buildTransitive\\Helit.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
